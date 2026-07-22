@@ -1,0 +1,14 @@
+.build/
+.venv/
+build/
+dist/
+outputs/
+vendor/
+__pycache__/
+*.py[cod]
+*.spec
+*.dmg
+*.img
+*.msi
+*.exe
+*.zip
